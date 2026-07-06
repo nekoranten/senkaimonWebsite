@@ -16,4 +16,7 @@ Oczywiście jest też opcja, że ekipa produkcyjna pomyślała w ten sam sposób
 Specjalnie skleiłem filmik jak Zangetsu i Muramasa wypowiadają tę formułkę:
 (odcinek 20, minuta 08:03 + odcinek 233, minuta 10:30)
 
-![Zangetsu Muramasa](anth-vid/zangetsu-muramasa.mp4)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/an-th/anth-vid/zangetsu-muramasa.mp4" type="video/mp4">
+  Twoja przeglądarka nie obsługuje odtwarzania video.
+</video>
