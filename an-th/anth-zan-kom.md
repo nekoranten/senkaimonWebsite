@@ -5,7 +5,7 @@ Mimo pojawienia się komendy w fillerze, to sama formułka jest kanoniczna, bo z
 W Zanpakuto Arc, Muramasa wypowiada tę formułkę, żeby wyciągnąć z Ichigo duszę Zangetsu, i zmaterializować ją. Jest opcja, że w taki sam sposób mógł zrobić z każdym innym Zanpakuto - wypowiadając ich komendy uwalniające.
 
 Formułka brzmi:<br>
-<span style="background-color: #gray; color: black; padding: 2px 6px;">*"Odrzuć strach. Patrz przed siebie. Idź naprzód. Nigdy się nie zatrzymuj. Jeśli się cofniesz - zestarzejesz się. Jeśli się ukryjesz - zginiesz!"*</span>
+<span style="background-color: gray; color: black; padding: 2px 6px;">*"Odrzuć strach. Patrz przed siebie. Idź naprzód. Nigdy się nie zatrzymuj. Jeśli się cofniesz - zestarzejesz się. Jeśli się ukryjesz - zginiesz!"*</span>
 
 Na koniec Zangetsu każe krzyczeć Ichigo - "Krzycz!" - co tak naprawdę już samo w sobie mogłoby być komendą uwalniającą, lecz pewnie bardziej tu chodziło o to, by zwiększyć efektywność uwolnienia.
 
