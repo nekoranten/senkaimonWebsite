@@ -1,11 +1,11 @@
-# Zangetsu - komenda uwalniająca
+## Zangetsu - komenda uwalniająca
 
 Czy wiedzieliście, że prawdopodobnie poznaliśmy już dawno - bo prawie na samym początku mangi - komendę uwalniającą Zangetsu? 
 Formułka pojawia się w serii dwa razy: raz w kanonie (manga i anime) oraz raz w fillerze - Zanpakuto Arc. Mimo pojawienia się komendy w fillerze, to sama formułka jest kanoniczna, bo została wypowiedziana przez Zangetsu (staruszka) w trakcie treningu Ichigo u Urahary. 
 W Zanpakuto Arc, Muramasa wypowiada tę formułkę, żeby wyciągnąć z Ichigo duszę Zangetsu, i zmaterializować ją. Jest opcja, że w taki sam sposób mógł zrobić z każdym innym Zanpakuto, wypowiadając ich komendy uwalniające.
 
 Formułka brzmi:
-> "Odrzuć strach. Patrz przed siebie. Idź naprzód. Nigdy się nie zatrzymuj. Jeśli się cofniesz - zestarzejesz się. Jeśli się ukryjesz - zginiesz!"
+*> "Odrzuć strach. Patrz przed siebie. Idź naprzód. Nigdy się nie zatrzymuj. Jeśli się cofniesz - zestarzejesz się. Jeśli się ukryjesz - zginiesz!"*
 
 Na koniec Zangetsu każe krzyczeć Ichigo - "Krzycz!" - co tak naprawdę już samo w sobie mogłoby być komendą uwalniającą, lecz pewnie bardziej tu chodziło o to, by zwiększyć efektywność uwolnienia.
 
