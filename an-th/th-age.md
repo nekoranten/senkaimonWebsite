@@ -7,9 +7,9 @@ W Zanpakuto Arc, Muramasa wypowiada tę formułkę, żeby wyciągnąć z Ichigo 
 Formułka brzmi:
 > "Odrzuć strach. Patrz przed siebie. Idź naprzód. Nigdy się nie zatrzymuj. Jeśli się cofniesz - zestarzejesz się. Jeśli się ukryjesz - zginiesz!"
 
-Na koniec Zangetsu każe krzyczeć Ichigo - "Krzycz!" - co tak naprawdę już samo w sobie mogłoby być komendą uwalniającą, lecz pewnie bardziej tu chodziło o to by zwiększyć efektywność uwolnienia. 
+Na koniec Zangetsu każe krzyczeć Ichigo - "Krzycz!" - co tak naprawdę już samo w sobie mogłoby być komendą uwalniającą, lecz pewnie bardziej tu chodziło o to, by zwiększyć efektywność uwolnienia.
 
-Ale dlaczego komenda jest taka długa? Kubo kiedyś wyjaśnił (Q&A 170), że starsze Zanpakuto zwykle mają dłuższe komendy uwalniające np. Katen Kyokotsu czy Sogyo no Kotowari. To, że Zangetsu ma tak długą komendę może wynikać z tego, że Duszą Zanpakuto Ichigo jest manifestacja mocy Yhwacha, który ma przynajmniej 1200 lat. Aktualnie - z wiadomych powodów - ta komenda może być inna lub w nieco zmienionej - może krótszej - formie. Z drugiej strony, długość komendy może być spowodowana tym, że Ichigo posiada dwie dusze; i być może jest to zlepek dwóch komend...?
+Ale dlaczego komenda jest taka długa? Kubo kiedyś wyjaśnił (Q&A 170), że starsze Zanpakuto zwykle mają dłuższe komendy uwalniające np. Katen Kyokotsu czy Sogyo no Kotowari. To, że Zangetsu ma tak długą komendę może wynikać z tego, że Duszą Zanpakuto Ichigo jest manifestacja mocy Yhwacha, który ma przynajmniej 1200 lat. Aktualnie - z wiadomych powodów - ta komenda może być inna lub w nieco zmienionej - może krótszej - formie. Z drugiej strony, długość komendy może być spowodowana tym, że Ichigo posiada dwie dusze; i być może jest to zlepek dwóch komend...
 
 Oczywiście jest też opcja, że ekipa produkcyjna pomyślała w ten sam sposób - stwierdziła, że to może być komenda uwalniająca, dlatego użyli tego w fillerze. Jednocześnie mogli spytać się Tite Kubo: "Czy te słowa można uznać za komendę uwalniającą?"; i autor mógł krótko odpowiedzieć: "Tak".
 
