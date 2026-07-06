@@ -13,7 +13,7 @@ Ale dlaczego komenda jest taka długa? Kubo kiedyś wyjaśnił (Q&A 170), że st
 
 Oczywiście jest też opcja, że ekipa produkcyjna pomyślała w ten sam sposób - stwierdziła, że to może być komenda uwalniająca, dlatego użyli tego w fillerze. Jednocześnie mogli spytać się Tite Kubo: "Czy te słowa można uznać za komendę uwalniającą?"; i autor mógł krótko odpowiedzieć: "Tak".
 
-Specjalnie skleiłem filmik jak Zangetsu i Muramasa wypowiadają tę formułkę:
+Specjalnie skleiłem filmik jak Zangetsu i Muramasa wypowiadają tę formułkę: 
 (odcinek 20, minuta 08:03 + odcinek 233, minuta 10:30)
 
 <video width="100%" controls>
